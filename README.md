@@ -1,2 +1,2 @@
 # wasm-python
-wasm-python files for python and versions
+wasm-python wasm files to run python scripts in nodejs environments
