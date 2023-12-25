@@ -1,6 +1,6 @@
 {
   "name": "wasm-python",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "wasm-python files for python versions. WebAssembly port of python by Emscripten with a thin JavaScript wrapper to run python scripts in node.js",
   "main": "index.js",
   "type": "module",
