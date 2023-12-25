@@ -24,6 +24,8 @@ hello_python().then((result) => {
 
 ```
 
+Demos can be found here in the [demos](https://github.com/desktop-cgi/wasm-python/tree/main/demos) folder
+
 This is a direct port of [npm package to run python using pyodide](https://www.npmjs.com/package/pyodide) ported for [desktop-cgi](https://github.com/desktop-cgi)
 
 Check out more on different ways of using Python language interpretor inside of JS, Node.js here [https://pythondev.readthedocs.io/wasm.html](https://pythondev.readthedocs.io/wasm.html)
